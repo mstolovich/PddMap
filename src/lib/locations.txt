@@ -5,7 +5,8 @@ what does it mean: a sitemap with keyword-rich
 content but in the proper level can stand ougit config --global user.email "MY_NAME@example.com"
 t others and get ranking advantages.
 
-1.make the site responsive-mobile friendly
+https://bsscommerce.com/blog/magento-2-seo-checklist/
+1.make the site responsive-mobile friendly flexbox grid
 2. amp workflow
 3. relevantly titled url
 4. Google Search Console And Google Analytics aka google webmaster tools
@@ -13,7 +14,8 @@ t others and get ranking advantages.
 6. html and xml sitemaps
 7. ? rich snippets stuctured data markup
 8. Share links? Open graph, twitter cards for showing images.
-flexbox grid
+
+9. https://bsscommerce.com/blog/magento-2-seo-checklist/
 
 
 https://ahrefs.com/blog/ru/title-tag-seo/
