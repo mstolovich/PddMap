@@ -1,3 +1,12 @@
+will it be convinient to make sitemap with a lot of tags/links but
+all they follow to the main page and how to make properly that if I have one page(may be with anchors).
+
+what does it mean: a sitemap with keyword-rich
+content but in the proper level can stand ougit config --global user.email "MY_NAME@example.com"
+t others and get ranking advantages.
+
+https://ahrefs.com/blog/ru/title-tag-seo/
+
 Перекресток Запорожского шоссе и пр. Гагарина (Подстанция)
 На ул.Казакова
 В районе Университета внутренних дел (светофор)
